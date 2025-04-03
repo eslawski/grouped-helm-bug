@@ -4,6 +4,7 @@
   "packageRules": [
     {
       "matchPackageNames": [
+        "axios",
         "react",
         "grafana",
         "vue"
