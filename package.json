@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "react": "^19.0.0"
+    "react": "^19.0.0",
+    "vue": "^3.0.0"
   },
   "packageManager": "yarn@4.8.1"
 }
