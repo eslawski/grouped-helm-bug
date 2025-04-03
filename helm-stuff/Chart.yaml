@@ -1,0 +1,8 @@
+apiVersion: v2
+name: grouped-helm-bug
+type: application
+version: 0.0.1
+dependencies:
+  - name: grafana
+    version: "8.10.4" # precise version
+    repository: https://grafana.github.io/helm-charts
