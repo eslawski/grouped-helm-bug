@@ -5,7 +5,8 @@
     {
       "matchPackageNames": [
         "react",
-        "grafana"
+        "grafana",
+        "vue"
       ],
       "groupName": "Example PR that groups yarn and helm updates"
     }
