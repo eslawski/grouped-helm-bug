@@ -9,7 +9,7 @@
         "grafana",
         "vue"
       ],
-      "groupName": "Example PR that groups yarn and helm updates 2"
+      "groupName": "Example PR that groups yarn and helm updates"
     }
   ]
 }
