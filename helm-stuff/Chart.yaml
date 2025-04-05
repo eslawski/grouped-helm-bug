@@ -4,5 +4,5 @@ type: application
 version: 0.0.1
 dependencies:
   - name: grafana
-    version: "8.10.4" # precise version
+    version: "8.11.3" # precise version
     repository: https://grafana.github.io/helm-charts
